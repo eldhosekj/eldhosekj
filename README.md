@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eldhosekj
-- 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in software testing
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
